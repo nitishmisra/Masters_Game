@@ -1,0 +1,707 @@
+﻿Log file open, 10/29/18 13:58:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Masters_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.549731
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.366s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.037s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.29-12.58.07:743][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.29-12.58.07:744][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.29-12.58.07:841][  0]LogHAL: Display: Platform has ~ 8 GB [8469164032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.29-12.58.07:848][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.29-12.58.07:848][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.29-12.58.07:917][  0]LogInit: Computer: DESKTOP-9GLKCJD
+[2018.10.29-12.58.07:917][  0]LogInit: User: asus
+[2018.10.29-12.58.07:917][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.29-12.58.07:917][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.10.29-12.58.07:917][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.29-12.58.07:917][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.29-12.58.07:917][  0]LogMemory: Process Physical Memory: 101.03 MB used, 101.03 MB peak
+[2018.10.29-12.58.07:917][  0]LogMemory: Process Virtual Memory: 89.36 MB used, 89.36 MB peak
+[2018.10.29-12.58.07:917][  0]LogMemory: Physical Memory: 4961.50 MB used,  3115.32 MB free, 8076.82 MB total
+[2018.10.29-12.58.07:917][  0]LogMemory: Virtual Memory: 4643.42 MB used,  3115.32 MB free, 134217728.00 MB total
+[2018.10.29-12.58.10:364][  0]LogInit: Using OS detected language (en-US).
+[2018.10.29-12.58.10:364][  0]LogInit: Using OS detected locale (en-GB).
+[2018.10.29-12.58.10:486][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.29-12.58.12:089][  0]LogStreaming: Display: Took  1.704s to InitEngineTextLocalization.
+[2018.10.29-12.58.13:400][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.29-12.58.13:400][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.29-12.58.24:886][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.29-12.58.24:886][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.29-12.58.28:014][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.10.29-12.58.28:014][  0]LogD3D11RHI:       4021/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.29-12.58.28:033][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.10.29-12.58.28:033][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.29-12.58.28:091][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.29-12.58.28:091][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.29-12.58.28:091][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.29-12.58.28:148][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.29-12.58.28:148][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.10.29-12.58.28:164][  0]LogWindows: EnumDisplayDevices:
+[2018.10.29-12.58.28:165][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.10.29-12.58.28:165][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.29-12.58.28:165][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.10.29-12.58.28:165][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.29-12.58.28:165][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.10.29-12.58.28:165][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.29-12.58.28:165][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.29-12.58.28:165][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.10.29-12.58.28:297][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.29-12.58.28:642][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.29-12.58.28:758][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Users/asus/Desktop/Masters_Game/Intermediate/Shaders/WorkingDirectory/7004/).
+[2018.10.29-12.58.28:759][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/asus/AppData/Local/Temp/UnrealShaderWorkingDir/5DBEC38C48633EE02F710F8A31862C67/'.
+[2018.10.29-12.58.31:371][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.29-12.58.31:404][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.29-12.58.31:422][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.29-12.58.31:443][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.29-12.58.31:510][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.29-12.58.31:567][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.29-12.58.31:601][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.29-12.58.31:624][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.29-12.58.31:643][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.29-12.58.31:818][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.29-12.58.31:938][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.29-12.58.31:938][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.29-12.58.31:978][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.29-12.58.31:978][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.29-12.58.32:002][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.29-12.58.32:025][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.29-12.58.32:049][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.29-12.58.32:122][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.29-12.58.32:132][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.29-12.58.32:132][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.29-12.58.33:471][  0]LogXGEController: Cleaning working directory: C:/Users/asus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.29-12.58.33:472][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.29-12.58.33:472][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.29-12.58.33:472][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.29-12.58.42:845][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.29-12.58.43:625][  0]LogDerivedDataCache: Loaded boot cache 0.75s 71MB C:/Users/asus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.29-12.58.43:626][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/asus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.29-12.58.43:626][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/asus/Desktop/Masters_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.29-12.58.43:626][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.29-12.58.43:626][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/asus/Desktop/Masters_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.29-12.58.43:626][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.29-12.58.43:760][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.29-12.58.43:794][  0]LogDerivedDataCache: Using Local data cache path C:/Users/asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.29-12.58.43:794][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.29-12.58.43:794][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.29-12.58.43:976][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.29-12.58.44:067][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.29-12.58.44:265][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.29-12.58.47:274][  0]LogAssetRegistry: FAssetRegistry took 0.0429 seconds to start up
+[2018.10.29-12.58.57:755][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.29-12.59.01:851][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.29-12.59.02:208][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.29-12.59.02:215][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.29-12.59.02:256][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.29-12.59.02:256][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.29-12.59.04:884][  0]LogNetVersion: Masters_Project 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4035682717)
+[2018.10.29-12.59.16:458][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.617338 seconds
+[2018.10.29-12.59.16:559][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.29-12.59.16:559][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.29-12.59.16:559][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.29-12.59.48:836][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.29-12.59.48:867][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.29-12.59.51:263][  0]SourceControl: Source control is disabled
+[2018.10.29-12.59.51:264][  0]SourceControl: Source control is disabled
+[2018.10.29-12.59.51:348][  0]SourceControl: Source control is disabled
+[2018.10.29-12.59.51:363][  0]SourceControl: Source control is disabled
+[2018.10.29-12.59.53:121][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.29-12.59.53:523][  0]LogOcInput: OculusInput pre-init called
+[2018.10.29-12.59.54:797][  0]LogEngine: Initializing Engine...
+[2018.10.29-12.59.54:875][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.29-12.59.54:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.29-12.59.54:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.29-12.59.54:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.29-12.59.54:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.29-12.59.56:641][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.29-12.59.57:546][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.29-12.59.57:935][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-12.59.58:038][  0]LogInit: FAudioDevice initialized.
+[2018.10.29-12.59.58:054][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.29-12.59.58:399][  0]LogDerivedDataCache: Saved boot cache 0.34s 71MB C:/Users/asus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.29-12.59.58:410][  0]LogInit: Texture streaming: Enabled
+[2018.10.29-12.59.58:732][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.29-12.59.59:348][  0]LogInit: Transaction tracking system initialized
+[2018.10.29-13.00.00:597][  0]BlueprintLog: New page: Editor Load
+[2018.10.29-13.00.06:606][  0]LocalizationService: Localization service is disabled
+[2018.10.29-13.00.16:363][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Desktop/Masters_Game/Content/' took 0.11s
+[2018.10.29-13.00.16:363][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.29-13.00.16:371][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.29-13.00.16:472][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.29-13.00.16:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.29-13.00.16:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.29-13.00.16:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.29-13.00.16:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.29-13.00.27:489][  0]SourceControl: Source control is disabled
+[2018.10.29-13.00.27:621][  0]Cmd: MAP LOAD FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.29-13.00.27:858][  0]LightingResults: New page: Lighting Build
+[2018.10.29-13.00.28:483][  0]MapCheck: New page: Map Check
+[2018.10.29-13.00.28:483][  0]LightingResults: New page: Lighting Build
+[2018.10.29-13.00.41:932][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.29-13.00.46:588][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.29-13.00.47:657][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.29-13.00.47:810][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 151.991ms to complete.
+[2018.10.29-13.00.47:843][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 20.338
+[2018.10.29-13.00.57:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-13.00.57:862][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-13.00.57:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-13.00.57:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-13.00.58:497][  0]LogCollectionManager: Loaded 0 collections in 0.002228 seconds
+[2018.10.29-13.00.59:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Desktop/Masters_Game/Saved/Collections/' took 0.01s
+[2018.10.29-13.00.59:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Desktop/Masters_Game/Content/Developers/asus/Collections/' took 0.01s
+[2018.10.29-13.00.59:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Desktop/Masters_Game/Content/Collections/' took 0.01s
+[2018.10.29-13.00.59:309][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.29-13.00.59:383][  0]LogContentBrowser: Native class hierarchy populated in 0.0506 seconds. Added 2572 classes and 603 folders.
+[2018.10.29-13.01.00:005][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.29-13.01.07:932][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.29-13.01.08:135][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.29-13.01.14:665][  0]LogSlate: Took 0.180182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.29-13.01.14:886][  0]LogSlate: Took 0.066707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.29-13.01.15:319][  0]LogSlate: Took 0.017614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.29-13.01.19:916][  0]LogRenderer: Reallocating scene render targets to support 1108x636 Format 9 NumSamples 1 (Frame:1).
+[2018.10.29-13.01.26:231][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.29-13.01.26:231][  0]LogLoad: (Engine Initialization) Total time: 241.83 seconds
+[2018.10.29-13.01.26:231][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.29-13.01.30:011][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.10.29-13.01.33:921][  1]LogSlate: Took 0.934177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.29-13.01.35:451][  3]LogAssetRegistry: Asset discovery search completed in 168.1677 seconds
+[2018.10.29-13.01.35:573][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.29-13.01.35:575][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.031403 seconds (updated 0 objects)
+[2018.10.29-13.31.30:896][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.31.31:101][319]LogActorFactory: Actor Factory created Sphere
+[2018.10.29-13.31.31:920][353]LogActorFactory: Actor Factory created Sphere
+[2018.10.29-13.31.34:905][419]Cmd: DELETE
+[2018.10.29-13.31.34:909][419]Cmd: ACTOR DELETE
+[2018.10.29-13.31.35:285][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.29-13.31.35:362][419]LogEditorActor: Deleted 1 Actors (0.168 secs)
+[2018.10.29-13.31.35:818][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.31.37:819][514]LogSlate: Took 0.023578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.29-13.31.58:736][514]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.29-13.32.03:088][689]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/ThirdPersonExampleMap_Auto1F00514284783B1B79B80B78F05295649.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.10.29-13.32.03:196][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.971
+[2018.10.29-13.32.03:196][689]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.971
+[2018.10.29-13.32.03:322][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TwinStickBP/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2018.10.29-13.32.03:322][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/NewBlueprint]
+[2018.10.29-13.32.03:484][689]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/NewBlueprint_Auto181DF4ED14BE8FE2F8A61B2AB88DB937E.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Autosaves/Game/TwinStickBP/Blueprints/NewBlueprint_Auto1.uasset'
+[2018.10.29-13.32.03:508][689]LogFileHelpers: Auto-saving content packages took 0.208
+[2018.10.29-13.32.15:890][410]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TwinStickBP/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.32.15:890][410]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C' ref from Metadata '/Game/TwinStickBP/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.32.15:890][410]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP_C' ref from Metadata '/Game/TwinStickBP/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.32.15:890][410]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TwinStickBP/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.32.15:890][410]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TwinStickBP/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.32.15:890][410]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TwinStickBP/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.32.15:989][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Sumo_Boss_BP" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/TwinStickBP/Blueprints/Sumo_Boss_BP.uasset" SILENT=true
+[2018.10.29-13.32.16:003][410]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_Boss_BP104DB0854933792310382DA8FD3F09CB.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/TwinStickBP/Blueprints/Sumo_Boss_BP.uasset'
+[2018.10.29-13.32.16:768][441]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP
+[2018.10.29-13.32.19:137][441]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.10.29-13.32.26:313][637]LogRenderer: Reallocating scene render targets to support 1144x712 Format 9 NumSamples 1 (Frame:194).
+[2018.10.29-13.32.27:331][672]LogSlate: Window 'Sumo_Boss_BP' being destroyed
+[2018.10.29-13.32.28:701][746]LogSlate: Took 0.025861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.29-13.32.46:025][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.32.46:326][756]BlueprintLog: New page: Compile Sumo_Boss_BP
+[2018.10.29-13.32.49:049][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-13.32.58:847][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.33.03:736][774]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.29-13.33.37:910][809]BlueprintLog: New page: Compile Sumo_Boss_BP
+[2018.10.29-13.34.59:770][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.29-13.35.00:422][368]Cmd: DELETE
+[2018.10.29-13.35.00:422][368]Cmd: ACTOR DELETE
+[2018.10.29-13.35.00:424][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.29-13.35.00:501][368]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2018.10.29-13.36.08:743][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.36.26:044][938]Cmd: TRANSACTION UNDO
+[2018.10.29-13.36.26:044][938]LogEditorTransaction: Undo Delete Actors
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP_C' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP_C:UserConstructionScript' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP_C:Body' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.Sumo_Boss_BP_C:DefaultSceneRoot' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:UserConstructionScript' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:Body' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:DefaultSceneRoot' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:ReceiveTick' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:759][319]LogMetaData: Removing '/Game/Boss/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/TwinStickBP/Blueprints/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.06:839][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Sumo_Boss_BP" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Sumo_Boss_BP.uasset" SILENT=true
+[2018.10.29-13.37.06:890][319]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_Boss_BP149C58C44E72AD18B228CDB6CD195117.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Sumo_Boss_BP.uasset'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP_C' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP_C:UserConstructionScript' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP_C:Body' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP_C:DefaultSceneRoot' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:714][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:ReceiveTick' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:715][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:DefaultSceneRoot' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:715][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:Body' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:715][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.SKEL_Sumo_Boss_BP_C:UserConstructionScript' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:715][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:715][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:715][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:715][467]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_Boss_BP.Sumo_Boss_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Boss/Sumo_Boss_BP.PackageMetaData'
+[2018.10.29-13.37.09:752][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/Sumo_Boss_BP" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_Boss_BP.uasset" SILENT=true
+[2018.10.29-13.37.09:774][467]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_Boss_BPC626771D4C681A642DD52098CBCB7FDF.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_Boss_BP.uasset'
+[2018.10.29-13.37.48:305][696]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.29-13.37.56:877][ 48]LogMetaData: Removing '/Game/Boss/Blueprints/AI_Character_Controller.AI_Character_Controller:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boss/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.37.56:878][ 48]LogMetaData: Removing '/Game/Boss/Blueprints/AI_Character_Controller.SKEL_AI_Character_Controller_C' ref from Metadata '/Game/Boss/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.37.56:878][ 48]LogMetaData: Removing '/Game/Boss/Blueprints/AI_Character_Controller.AI_Character_Controller_C' ref from Metadata '/Game/Boss/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.37.56:878][ 48]LogMetaData: Removing '/Game/Boss/Blueprints/AI_Character_Controller.AI_Character_Controller:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boss/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.37.56:878][ 48]LogMetaData: Removing '/Game/Boss/Blueprints/AI_Character_Controller.AI_Character_Controller:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Boss/Blueprints/NewBlueprint.PackageMetaData'
+[2018.10.29-13.37.56:914][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/AI_Character_Controller" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/AI_Character_Controller.uasset" SILENT=true
+[2018.10.29-13.37.56:929][ 48]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/AI_Character_Controller208E1A9A4227EEE3CFC08899DEE97D39.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/AI_Character_Controller.uasset'
+[2018.10.29-13.38.17:405][291]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.29-13.38.25:025][398]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.29-13.38.39:718][982]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Boss/Blueprints/Boss_Character_BP.Boss_Character_BP
+[2018.10.29-13.38.47:474][146]LogSlate: Window 'Boss_Character_BP*' being destroyed
+[2018.10.29-13.38.49:172][247]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.29-13.38.54:906][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.39.03:300][  6]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_AI_Character_Controller.Sumo_AI_Character_Controller_C' ref from Metadata '/Game/Boss/Blueprints/AI_Character_Controller.PackageMetaData'
+[2018.10.29-13.39.03:300][  6]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_AI_Character_Controller.SKEL_Sumo_AI_Character_Controller_C' ref from Metadata '/Game/Boss/Blueprints/AI_Character_Controller.PackageMetaData'
+[2018.10.29-13.39.03:300][  6]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_AI_Character_Controller.Sumo_AI_Character_Controller:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Boss/Blueprints/AI_Character_Controller.PackageMetaData'
+[2018.10.29-13.39.03:300][  6]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_AI_Character_Controller.Sumo_AI_Character_Controller:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Boss/Blueprints/AI_Character_Controller.PackageMetaData'
+[2018.10.29-13.39.03:300][  6]LogMetaData: Removing '/Game/Boss/Blueprints/Sumo_AI_Character_Controller.Sumo_AI_Character_Controller:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Boss/Blueprints/AI_Character_Controller.PackageMetaData'
+[2018.10.29-13.39.03:339][  6]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_AI_Character_Controller96C8257A45845AA11DF133B5298B75AA.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_AI_Character_Controller.uasset'
+[2018.10.29-13.39.06:835][203]BlueprintLog: New page: Compile Boss_Character_BP
+[2018.10.29-13.39.07:490][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/Boss_Character_BP" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Boss_Character_BP.uasset" SILENT=true
+[2018.10.29-13.39.07:505][224]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Boss_Character_BPCF14DE294D540083BB4F2DB0D79016A8.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Boss_Character_BP.uasset'
+[2018.10.29-13.39.08:710][279]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/ThirdPersonExampleMap0BBC4561489711228580EDA7A01509FA.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.29-13.39.09:120][279]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/ThirdPersonExampleMap_BuiltData4CB74C2B4B8D156FA29943A00E821E86.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.10.29-13.39.34:964][648]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.29-13.39.52:016][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.40.03:228][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-13.40.03:295][470]BlueprintLog: New page: Compile Boss_Character_BP
+[2018.10.29-13.40.03:957][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/Boss_Character_BP" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Boss_Character_BP.uasset" SILENT=true
+[2018.10.29-13.40.03:998][491]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Boss_Character_BP1F543D1A46BCC3A09C860397DC066C60.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Boss_Character_BP.uasset'
+[2018.10.29-13.40.44:614][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/Sumo_Behaviour_Tree" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_Behaviour_Tree.uasset" SILENT=true
+[2018.10.29-13.40.44:622][ 45]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_Behaviour_Tree8C1350C246B1363EE6FDB89ECE55FF3A.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_Behaviour_Tree.uasset'
+[2018.10.29-13.40.44:629][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/Sumo_Blackboard" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_Blackboard.uasset" SILENT=true
+[2018.10.29-13.40.44:656][ 45]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_BlackboardE0C05E0548470E4D362539B5D55A9792.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_Blackboard.uasset'
+[2018.10.29-13.40.59:587][188]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Boss/Blueprints/Sumo_AI_Character_Controller.Sumo_AI_Character_Controller
+[2018.10.29-13.41.02:796][248]LogSlate: Took 0.031944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.29-13.41.52:096][960]BlueprintLog: New page: Compile Sumo_AI_Character_Controller
+[2018.10.29-13.41.52:827][989]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_AI_Character_Controller0E095BF44D70D991EB2B4BAF29FF6C83.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Sumo_AI_Character_Controller.uasset'
+[2018.10.29-13.42.09:033][271]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Boss/Blueprints/Sumo_Behaviour_Tree.Sumo_Behaviour_Tree
+[2018.10.29-13.42.55:903][ 95]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.29-13.42.57:564][193]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.01:136][403]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.02:284][472]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.02:284][472]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.05:198][646]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.06:234][708]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.09:871][926]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.10:140][942]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.10:807][982]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.12:325][ 73]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.14:209][186]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.14:777][220]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.14:927][229]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.15:060][237]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.15:194][245]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.32:309][583]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.32:659][604]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.32:944][621]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.33:210][637]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.43.34:743][729]LogBlackboardEditor: Error: Trying to delete an entry from a blackboard while no Blackboard Asset is set!
+[2018.10.29-13.44.04:555][185]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Boss/Blueprints/Sumo_Behaviour_Tree.Sumo_Behaviour_Tree
+[2018.10.29-13.49.09:600][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2018.10.29-13.49.09:603][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Boss/Blueprints/Sumo_Blackboard] ([1] browsable assets)...
+[2018.10.29-13.49.09:603][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Boss/Blueprints/Sumo_Blackboard]
+[2018.10.29-13.49.09:641][ 27]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_Blackboard_Auto2AEE4B2474D1C751E8721D2AD006724F0.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Autosaves/Game/Boss/Blueprints/Sumo_Blackboard_Auto2.uasset'
+[2018.10.29-13.49.09:642][ 27]LogFileHelpers: Auto-saving content packages took 0.042
+[2018.10.29-14.14.42:624][900]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2018.10.29-14.14.42:685][900]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2018.10.29-14.14.49:689][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-14.14.49:796][135]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-14.14.50:248][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.14.50:551][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-14.14.51:831][135]PIE: New page: PIE session: ThirdPersonExampleMap (29 Oct 2018 16:14:51)
+[2018.10.29-14.14.51:971][135]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.29-14.14.53:551][135]LogPlayLevel: PIE: StaticDuplicateObject took: (1.550570s)
+[2018.10.29-14.14.53:801][135]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.29-14.14.54:068][135]LogPlayLevel: PIE: World Init took: (0.498649s)
+[2018.10.29-14.14.54:087][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (2.116560s)
+[2018.10.29-14.14.54:580][135]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-14.14.54:805][135]LogInit: FAudioDevice initialized.
+[2018.10.29-14.14.55:538][135]LogLoad: Game class is 'GameModeBP_C'
+[2018.10.29-14.14.56:019][135]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.10.29-15.14.56
+[2018.10.29-14.14.56:069][135]LogWorld: Bringing up level for play took: 0.178430
+[2018.10.29-14.14.57:873][135]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0739 seconds. Added 10 classes and 0 folders.
+[2018.10.29-14.14.57:955][135]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-14.14.57:975][135]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-14.14.57:975][135]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-14.15.00:908][135]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.10.29-14.15.00:918][135]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-14.15.01:076][135]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 10.094
+[2018.10.29-14.15.01:077][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.15.01:271][135]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:03AA
+[2018.10.29-14.15.01:365][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Distance between characters
+[2018.10.29-14.15.01:389][135]LogScript: Warning: Accessed None trying to read property Player 2
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:042F
+[2018.10.29-14.15.01:389][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 2". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.15.01:389][135]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:0461
+[2018.10.29-14.15.01:389][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.15.04:108][136]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:03AA
+[2018.10.29-14.15.04:108][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Distance between characters
+[2018.10.29-14.15.04:109][136]LogScript: Warning: Accessed None trying to read property Player 2
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:042F
+[2018.10.29-14.15.04:109][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 2". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.15.04:109][136]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:0461
+[2018.10.29-14.15.04:109][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.15.29:055][309]Cmd: LevelEditor.ToggleImmersive
+[2018.10.29-14.15.29:415][310]LogRenderer: Reallocating scene render targets to support 1672x908 Format 9 NumSamples 1 (Frame:176).
+[2018.10.29-14.15.29:420][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-14.15.56:740][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.15.56:884][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-14.15.57:226][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.29-14.15.57:226][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.15.57:290][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-14.15.57:485][900]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 9 NumSamples 1 (Frame:9225).
+[2018.10.29-14.15.57:551][901]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.10.29-14.15.59:168][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-14.19.56:945][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-14.20.39:793][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2018.10.29-14.20.39:804][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Boss/Blueprints/Sumo_Behaviour_Tree] ([1] browsable assets)...
+[2018.10.29-14.20.39:825][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Boss/Blueprints/Sumo_Behaviour_Tree]
+[2018.10.29-14.20.40:313][641]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Sumo_Behaviour_Tree_Auto3630F37244BB5308F7D17AABDC44604E3.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Saved/Autosaves/Game/Boss/Blueprints/Sumo_Behaviour_Tree_Auto3.uasset'
+[2018.10.29-14.20.40:324][641]LogFileHelpers: Auto-saving content packages took 0.530
+[2018.10.29-14.21.52:329][689]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Boss/Blueprints/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2018.10.29-14.21.53:020][689]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Boss/Blueprints/BTTask_BlueprintBase_New.
+[2018.10.29-14.22.27:756][886]LogMetaData: Removing '/Game/Boss/Blueprints/FInd_Random_Location.SKEL_FInd_Random_Location_C' ref from Metadata '/Game/Boss/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.10.29-14.22.27:756][886]LogMetaData: Removing '/Game/Boss/Blueprints/FInd_Random_Location.FInd_Random_Location_C' ref from Metadata '/Game/Boss/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.10.29-14.22.27:791][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/FInd_Random_Location" FILE="../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/FInd_Random_Location.uasset" SILENT=true
+[2018.10.29-14.22.27:808][886]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/FInd_Random_Location22E467714C56208CEDC93A8E6CD8BDB0.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/FInd_Random_Location.uasset'
+[2018.10.29-14.22.28:234][888]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Boss/Blueprints/FInd_Random_Location.
+[2018.10.29-14.22.56:195][500]LogSlate: Window 'FInd_Random_Location' being destroyed
+[2018.10.29-14.23.12:771][ 73]LogMetaData: Removing '/Game/Boss/Blueprints/Tasks/FInd_Random_Location.FInd_Random_Location_C' ref from Metadata '/Game/Boss/Blueprints/FInd_Random_Location.PackageMetaData'
+[2018.10.29-14.23.12:771][ 73]LogMetaData: Removing '/Game/Boss/Blueprints/Tasks/FInd_Random_Location.SKEL_FInd_Random_Location_C' ref from Metadata '/Game/Boss/Blueprints/FInd_Random_Location.PackageMetaData'
+[2018.10.29-14.23.12:807][ 73]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/FInd_Random_Location2C780A3347748F2ADF4BF89E5DAA7A88.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Tasks/FInd_Random_Location.uasset'
+[2018.10.29-14.23.13:133][ 79]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Boss/Blueprints/Tasks/FInd_Random_Location.
+[2018.10.29-14.26.16:327][279]LogSlate: Took 0.032092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.29-14.26.19:450][464]BlueprintLog: New page: Compile FInd_Random_Location
+[2018.10.29-14.26.33:256][991]LogClass: Warning: Property Move Location Key of Move Location Key has a struct type mismatch (tag Vector != prop BlackboardKeySelector) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.10.29-14.26.34:424][ 55]BlueprintLog: New page: Compile FInd_Random_Location
+[2018.10.29-14.26.34:486][ 55]LogClass: Warning: Property Move Location Key of Move Location Key has a struct type mismatch (tag Vector != prop BlackboardKeySelector) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.10.29-14.26.35:402][101]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/FInd_Random_Location2F11987E42897AEF89A093B2A93C18EC.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Tasks/FInd_Random_Location.uasset'
+[2018.10.29-14.27.06:510][281]BlueprintLog: New page: Compile FInd_Random_Location
+[2018.10.29-14.27.07:066][307]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/FInd_Random_LocationBF5DF0EC42AA929E0701D19DD52B78B2.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Tasks/FInd_Random_Location.uasset'
+[2018.10.29-14.27.52:034][977]BlueprintLog: New page: Compile FInd_Random_Location
+[2018.10.29-14.28.27:585][813]BlueprintLog: New page: Compile FInd_Random_Location
+[2018.10.29-14.28.28:376][837]LogSavePackage: Moving '../../../../../../Users/asus/Desktop/Masters_Game/Saved/FInd_Random_Location6B046FF24EDB0F8629CF1D9122EFCA24.tmp' to '../../../../../../Users/asus/Desktop/Masters_Game/Content/Boss/Blueprints/Tasks/FInd_Random_Location.uasset'
+[2018.10.29-14.29.01:759][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-14.29.14:443][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-14.29.23:835][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-14.29.25:637][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-14.29.26:853][586]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-14.29.26:887][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.29.26:890][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-14.29.26:890][586]PIE: New page: PIE session: ThirdPersonExampleMap (29 Oct 2018 16:29:26)
+[2018.10.29-14.29.26:890][586]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.29-14.29.26:969][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079113s)
+[2018.10.29-14.29.26:970][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.29-14.29.26:970][586]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2018.10.29-14.29.26:970][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.080287s)
+[2018.10.29-14.29.27:014][586]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-14.29.27:093][586]LogInit: FAudioDevice initialized.
+[2018.10.29-14.29.27:157][586]LogLoad: Game class is 'GameModeBP_C'
+[2018.10.29-14.29.27:197][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.10.29-15.29.27
+[2018.10.29-14.29.27:437][586]LogWorld: Bringing up level for play took: 0.278298
+[2018.10.29-14.29.27:451][586]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-14.29.27:451][586]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-14.29.27:451][586]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-14.29.27:453][586]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.10.29-14.29.27:454][586]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-14.29.27:454][586]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.518
+[2018.10.29-14.29.27:454][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.29.27:454][586]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:03AA
+[2018.10.29-14.29.27:454][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Distance between characters
+[2018.10.29-14.29.27:454][586]LogScript: Warning: Accessed None trying to read property Player 2
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:042F
+[2018.10.29-14.29.27:455][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 2". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.29.27:455][586]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:0461
+[2018.10.29-14.29.27:455][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.29.27:549][587]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:03AA
+[2018.10.29-14.29.27:549][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Distance between characters
+[2018.10.29-14.29.27:549][587]LogScript: Warning: Accessed None trying to read property Player 2
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:042F
+[2018.10.29-14.29.27:549][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 2". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.29.27:549][587]LogScript: Warning: Accessed None trying to read property Player 1
+	LocalMultiplayer_Camera_BP_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.LocalMultiplayer_Camera_BP_2
+	Function /Game/TwinStickBP/Blueprints/LocalMultiplayer_Camera_BP.LocalMultiplayer_Camera_BP_C:ExecuteUbergraph_LocalMultiplayer_Camera_BP:0461
+[2018.10.29-14.29.27:549][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Player 1". Blueprint:  LocalMultiplayer_Camera_BP Function:  Execute Ubergraph Local Multiplayer Camera BP Graph:  EventGraph Node:  Set Centre Position
+[2018.10.29-14.29.37:691][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.29.37:695][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-14.29.37:795][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.29-14.29.37:795][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.29.37:825][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.29-14.29.37:894][192]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.29-14.31.19:767][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-14.31.20:887][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.29-14.31.20:890][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-14.31.20:890][727]PIE: New page: SIE session: ThirdPersonExampleMap (29 Oct 2018 16:31:20)
+[2018.10.29-14.31.20:891][727]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.29-14.31.20:910][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019272s)
+[2018.10.29-14.31.20:911][727]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.29-14.31.20:911][727]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2018.10.29-14.31.20:911][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020669s)
+[2018.10.29-14.31.20:959][727]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-14.31.21:031][727]LogInit: FAudioDevice initialized.
+[2018.10.29-14.31.21:031][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-14.31.21:063][727]LogLoad: Game class is 'GameModeBP_C'
+[2018.10.29-14.31.21:064][727]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.10.29-15.31.21
+[2018.10.29-14.31.21:065][727]LogWorld: Bringing up level for play took: 0.002111
+[2018.10.29-14.31.21:077][727]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-14.31.21:079][727]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-14.31.21:084][727]LogOutputDevice: Warning: 
+
+Script Stack:
+GameModeBase.HandleStartingNewPlayer
+GameModeBP_C.Spawn Players
+GameModeBP_C.ExecuteUbergraph_GameModeBP
+GameModeBP_C.ReceiveBeginPlay
+
+[2018.10.29-14.31.28:555][727]LogStats: FPlatformStackWalk::StackWalkAndDump -  7.464 s
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: 
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: Ensure condition failed: ActorHasBegunPlay == EActorBeginPlayState::HasNotBegunPlay [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Actor.cpp] [Line: 3224]
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: BeginPlay was called on actor /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameModeBP_C_0 which was in state 1
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: Stack: 
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad82571f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad7f90c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad7fab356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad52de64b UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad52ea752 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad6645119 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a0435a UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a1d3cb UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a21633 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a0548f UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad56c9c86 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadbf16467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc141133 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5318033 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad673f279 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a0f1bd UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5c6113d UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5c608ac UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad59f31bb UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad59f3634 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5345dca UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadbf16467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc1216ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc13f499 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc172266 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc141b96 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc12205d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc141b96 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc12205d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc141b96 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadbf16467 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffadc141133 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5318033 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad52de87c UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:555][727]LogOutputDevice: Error: [Callstack] 0x00007ffad52ea752 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad6645119 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a1d3cb UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a216bb UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad66293be UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad5a21fed UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad43df989 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad44001ac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad441e536 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad3e36b41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffad472f666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ff716a05cbd UE4Editor.exe!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ff716a15b3c UE4Editor.exe!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ff716a15bba UE4Editor.exe!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ff716a23dac UE4Editor.exe!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ff716a25aaa UE4Editor.exe!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffb3c543034 KERNEL32.DLL!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: [Callstack] 0x00007ffb3cbb1461 ntdll.dll!UnknownFunction []
+[2018.10.29-14.31.28:556][727]LogOutputDevice: Error: 
+[2018.10.29-14.31.28:574][727]LogStats:                SubmitErrorReport -  0.010 s
